@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">আমার অ্যাপ (রাজু)</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="buttonName">Submit</string>
+    <string name="ShowText">Please Enter Your Name</string>
+    <string name="showHint">Write Your Name</string>
+    <string name="title_activity_last">LastActivity</string>
+
+</resources>
